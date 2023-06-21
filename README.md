@@ -1,4 +1,4 @@
-# `kconnect` - The Kubernetes Connection Manager CLI
+# `kconnect` - The Kubernetes Connection Manager
 
 ![GitHub issues](https://img.shields.io/github/issues/fidelity/kconnect)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
